@@ -1,6 +1,10 @@
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="200" fill="#0d1117"/>
 
+  <!-- name/title in background -->
+  <text x="400" y="55" text-anchor="middle" font-family="monospace" font-size="40" font-weight="bold" fill="#e6edf3">Ario Bashiri</text>
+  <text x="400" y="82" text-anchor="middle" font-family="monospace" font-size="18" fill="#e6edf3">Computer Engineer</text>
+
   <!-- ground -->
   <line x1="0" y1="160" x2="800" y2="160" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6">
     <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="0.5s" repeatCount="indefinite"/>

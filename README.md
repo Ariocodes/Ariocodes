@@ -3,6 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/Ariocodes/Ariocodes/main/dino.svg" width="100%">
 
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ariobashiri.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ariobashiri.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ario-bashiri/)
 [![Email](https://img.shields.io/badge/Email-ario%40ariobashiri.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ario@ariobashiri.com)

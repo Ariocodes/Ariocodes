@@ -1,5 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Ariocodes/Ariocodes/main/dino.svg" width="100%">
+
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:1B4332,100:52796F&height=200&section=header&text=Ario%20Bashiri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer&descAlignY=58&descSize=18&animation=false)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ariobashiri.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ariobashiri.com)

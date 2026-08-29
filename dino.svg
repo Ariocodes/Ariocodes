@@ -11,7 +11,7 @@
     <rect x="0" y="0" width="40" height="8" rx="4">
       <animate attributeName="x" from="900" to="-60" dur="12s" repeatCount="indefinite"/>
     </rect>
-    <rect x="0" y="0" width="30" height="6" rx="3" y="25">
+    <rect x="0" y="25" width="30" height="6" rx="3">
       <animate attributeName="x" from="500" to="-60" dur="9s" begin="-3s" repeatCount="indefinite"/>
     </rect>
   </g>
